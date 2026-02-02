@@ -25,12 +25,15 @@
 
 ### 📊 My GitHub Journey
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AayushCode24-7&show_icons=true&theme=dark&hide_border=true" alt="Aayush's Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AayushCode24-7&theme=radical" alt="Aayush's Streak" />
 </p>
 
----
+<div align="center">
+  <img src="https://img.shields.io/badge/Total%20Repos-13-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Main%20Language-Python-yellow?style=for-the-badge" />
+</div>
 
 ### 📫 Connect with Me
 [<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:aayushjindal55@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aayush_jindal)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aayush-jindal)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/aayush_jindall)
