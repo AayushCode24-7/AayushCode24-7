@@ -24,10 +24,6 @@
 ---
 
 ### 📊 My GitHub Journey
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AayushCode24-7&show_icons=true&theme=radical" alt="Aayush's Stats" />
-</p>>
-
 <div align="center">
   <img src="https://img.shields.io/badge/Total%20Repos-13-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Main%20Language-Python-yellow?style=for-the-badge" />
