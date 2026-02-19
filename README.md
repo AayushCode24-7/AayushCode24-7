@@ -6,7 +6,7 @@
 <tr>
 <td width="60%" valign="top">
 
-##👋 Hi, I'm Aayush! 
+I'm Aayush! 
 
 **Tech Enthusiast | Coder | AI & GUI Explorer**
 
