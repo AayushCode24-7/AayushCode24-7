@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="Banner.png" alt="AayushCode24-7 Banner" width="100%">
+  <img src="Banner.png" alt="AayushCode24-7 Banner" width="110%">
 </div>
 
 <table>
@@ -11,8 +11,8 @@
 **Tech Enthusiast | Coder | AI & GUI Explorer**
 
 I love building practical projects that solve real-world problems. From managing flight records to competitive programming, I'm always looking for the next challenge.
-</br>
-If you can give me any kind of challenge Pls contact me with the given mail: aayushjindal65@gmail.com
+<br>
+If you have a project, I’d love to hear from you. Drop me a line at mail: aayushjindal65@gmail.com
 
 ### 🚀 My Digital Lab
 
