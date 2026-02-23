@@ -6,11 +6,13 @@
 <tr>
 <td width="60%" valign="top">
 
-I'm Aayush! 
+<b>I'm Aayush! | OPEN FOR WORK | OPEN FOR INTERNSHIP</b>
 
 **Tech Enthusiast | Coder | AI & GUI Explorer**
 
 I love building practical projects that solve real-world problems. From managing flight records to competitive programming, I'm always looking for the next challenge.
+</br>
+If you can give me any kind of challenge Pls contact me with the given mail: aayushjindal65@gmail.com
 
 ### 🚀 My Digital Lab
 
