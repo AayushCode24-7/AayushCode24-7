@@ -9,11 +9,14 @@
 <b>I'm Aayush! | OPEN FOR WORK | OPEN FOR INTERNSHIP</b>
 
 **Tech Enthusiast | Coder | AI & GUI Explorer**
+## 🤝 Let's Collaborate
 
 I love building practical projects that solve real-world problems. From managing flight records to competitive programming, I'm always looking for the next challenge.
-<br>
-If you have a project, I’d love to hear from you. Drop me a line at mail: aayushjindal65@gmail.com
 
+* 🎯 **Currently seeking:** Interesting projects and technical challenges.
+* 📧 **Get in touch:** [aayushjindal65@gmail.com](mailto:aayushjindal65@gmail.com);
+* 📸 **Instagram Dm:** [Aayush](https://www.instagram.com/aayush_jindall/)
+<br>
 ### 🚀 My Digital Lab
 
 * 🔭 **Featured Project:** [Airline-Information-System](https://github.com/AayushCode24-7/Airline-Information-System) - A Python-based console app for flight management.
