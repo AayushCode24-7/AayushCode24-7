@@ -14,7 +14,7 @@
 I love building practical projects that solve real-world problems. From managing flight records to competitive programming, I'm always looking for the next challenge.
 
 * 🎯 **Currently seeking:** Interesting projects and technical challenges.
-* 📧 **Get in touch:** [aayushjindal65@gmail.com](mailto:aayushjindal65@gmail.com);
+* 📧 **Get in touch:** [aayushjindal65@gmail.com](mailto:aayushjindal65@gmail.com)
 * 📸 **Instagram Dm:** [Aayush](https://www.instagram.com/aayush_jindall/)
 <br>
 ### 🚀 My Digital Lab
