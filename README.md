@@ -6,7 +6,7 @@
 <tr>
 <td width="60%" valign="top">
 
-<b>I'm Aayush! | OPEN FOR WORK | OPEN FOR INTERNSHIP</b>
+<b>I'm Aayush! | OPEN FOR WORK </b>
 
 **Tech Enthusiast | Coder | AI & GUI Explorer**
 ## 🤝 Let's Collaborate
