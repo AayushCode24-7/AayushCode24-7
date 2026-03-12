@@ -4,7 +4,7 @@
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="65%" valign="top">
 
 <b>I'm Aayush! | OPEN FOR WORK </b>
 
