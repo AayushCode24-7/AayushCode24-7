@@ -3,7 +3,7 @@
 </div> -->
 <table>
 <tr>
-<td width="66%" valign="top">
+<td width="66%" valign="center">
 
 <b>I'm Aayush! | OPEN FOR WORK </b>
 
