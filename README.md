@@ -64,7 +64,6 @@ I love building practical projects that solve real-world problems. From managing
 </div>
 
 ---
-
 <div align="center">
   
 *<b>"Code is like humor. When you have to explain it, it's bad!" – Cory House<b/>*
@@ -72,3 +71,8 @@ I love building practical projects that solve real-world problems. From managing
 ![Profile Views](https://komarev.com/ghpvc/?username=AayushCode24-7&color=blueviolet&style=flat-square)
 
 </div>
+
+
+ <a href="https://gitviewsmap.onrender.com/YOUR_GITHUB_USERNAME">
+  <img src="https://gitviewsmap.onrender.com/badge/YOUR_GITHUB_USERNAME.svg" alt="GitViewsMap Visitor Badge" />
+</a>
