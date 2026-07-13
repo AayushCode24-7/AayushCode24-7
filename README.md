@@ -22,7 +22,6 @@ I love building practical projects that solve real-world problems. From managing
 * 🌱 **Currently Leveling Up:** My Frontend skills through [FrontEnd](https://github.com/AayushCode24-7/Netflix-clone).
 * 🏆 **Competitive Programming:** Solving problems on [CodeForces](https://github.com/AayushCode24-7/CodeForces) / [LeetCode](https://leetcode.com/u/aayushcode24-7/).
 * 👨🏻‍💻**Currently Working On:** [Portfolio](https://github.com/AayushCode24-7/Portfolio.git).
-* ⚡ **Fun Fact:** As a programmer, I believe practical projects are the best way to learn!
 
 </td>
 <td width="40%" valign="top">
