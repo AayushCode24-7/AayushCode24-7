@@ -15,6 +15,7 @@ I love building practical projects that solve real-world problems. From managing
 * 🎯 **Currently seeking:** Interesting projects and technical challenges/ <b> Internship<b>.
 * 📧 **Get in touch:** [aayushjindal65@gmail.com](mailto:aayushjindal65@gmail.com)
 * 📸 **Instagram DM:** [Aayush](https://www.instagram.com/aayush_jindall/)
+* 💼 **Digital Portfolio:** [This Is Me](https://3dportfolio-weld-seven.vercel.app/)
 <br>
 
 **🚀 My Digital Lab**
