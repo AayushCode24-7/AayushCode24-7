@@ -45,7 +45,7 @@ I love building practical projects that solve real-world problems. From managing
 ### 📊 My GitHub Journey
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Total%20Repos-30-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Total%20Repos-31-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Main%20Language-Python-yellow?style=for-the-badge">
   <img src="https://img.shields.io/badge/Projects-Active-success?style=for-the-badge" />
 </div>
