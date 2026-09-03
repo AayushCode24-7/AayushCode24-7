@@ -7,7 +7,7 @@
 
 <b>I'm Aayush! | OPEN FOR WORK </b>
 
-**Tech Enthusiast | Coder | AI & GUI Explorer**
+**Tech Enthusiast | Coder | AI & GUI Explorer*
 ## 🤝 Let's Collaborate
 
 I love building practical projects that solve real-world problems. From managing flight records to competitive programming, I'm always looking for the next challenge.
