@@ -22,7 +22,7 @@ I love building practical projects that solve real-world problems. From managing
 * 🔭 **Featured Project:** [Airline-Information-System](https://github.com/AayushCode24-7/Airline-Information-System) - A Python-based console app for flight management.
 * 🌱 **Currently Leveling Up:** My Frontend skills through [FrontEnd](https://github.com/AayushCode24-7/Netflix-clone).
 * 🏆 **Competitive Programming:** Solving problems on [CodeForces](https://github.com/AayushCode24-7/CodeForces) / [LeetCode](https://leetcode.com/u/aayushcode24-7/).
-* 👨🏻‍💻**Currently Working On:** [Portfolio](https://github.com/AayushCode24-7/Portfolio.git).
+* 👨🏻‍💻**Currently Working On:** [DSA](https://github.com/AayushCode24-7/Portfolio.git).
 
 </td>
 <td width="40%" valign="top">
