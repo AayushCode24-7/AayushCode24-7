@@ -55,11 +55,8 @@ I love building practical projects that solve real-world problems. From managing
 ### 📫 Connect with Me
 
 <div align="center">
-  
-[<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:aayushjindal65@gmail.com)
-<!--[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aayush-jindal-60016837a)-->
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/aayush_jindall)
-
+  <a href="mailto:aayushjindal65@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://instagram.com/aayush_jindall" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </div>
 
 ---
@@ -67,6 +64,6 @@ I love building practical projects that solve real-world problems. From managing
   
 *<b>"Code is like humor. When you have to explain it, it's bad!" – Cory House<b/>*
 
-![Profile Views](https://komarev.com/ghpvc/?username=AayushCode24-7&color=blueviolet&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=AayushCode24-7&color=ffb6c1&style=flat-square)
 
 </div>
