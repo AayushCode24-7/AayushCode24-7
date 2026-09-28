@@ -31,6 +31,7 @@ I love building practical projects that solve real-world problems. From managing
 </tr>
 </table>
 
+---
 
 ### 💻 Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
