@@ -65,5 +65,4 @@ I love building practical projects that solve real-world problems. From managing
 *<b>"Code is like humor. When you have to explain it, it's bad!" – Cory House<b/>*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AayushCode24-7&color=ffb6c1&style=flat-square)
-
 </div>
