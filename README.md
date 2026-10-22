@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="Banner.png" alt="AayushCode24-7 Banner" width="110%">
-</div>
+
 <table>
 <tr>
 <td width="65%" valign="top">
