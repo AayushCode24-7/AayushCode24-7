@@ -14,7 +14,7 @@ I love building practical projects that solve real-world problems. From managing
 * 📧 **Get in touch:** [aayushjindal65@gmail.com](mailto:aayushjindal65@gmail.com)
 * 📸 **Instagram DM:** [Aayush](https://www.instagram.com/aayush_jindall/)
 * 💼 **Digital Portfolio:** [This Is Me](https://3dportfolio-weld-seven.vercel.app/)
-
+<br>
 
 **🚀 My Digital Lab**
 * 🔭 **Featured Project:** [Airline-Information-System](https://github.com/AayushCode24-7/Airline-Information-System) - A Python-based console app for flight management.
