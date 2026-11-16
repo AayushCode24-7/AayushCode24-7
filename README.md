@@ -1,6 +1,7 @@
 <table>
 <tr>
 <td width="65%" valign="top">
+  
 <b>I'm Aayush! | OPEN FOR WORK </b>
 
 **Tech Enthusiast | Coder | AI & GUI Explorer**
